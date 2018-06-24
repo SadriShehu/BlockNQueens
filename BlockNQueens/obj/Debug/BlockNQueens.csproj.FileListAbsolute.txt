@@ -1,0 +1,7 @@
+C:\Users\ssheh\source\repos\BlockNQueens\BlockNQueens\bin\Debug\BlockNQueens.exe.config
+C:\Users\ssheh\source\repos\BlockNQueens\BlockNQueens\bin\Debug\BlockNQueens.exe
+C:\Users\ssheh\source\repos\BlockNQueens\BlockNQueens\bin\Debug\BlockNQueens.pdb
+C:\Users\ssheh\source\repos\BlockNQueens\BlockNQueens\obj\Debug\BlockNQueens.csprojAssemblyReference.cache
+C:\Users\ssheh\source\repos\BlockNQueens\BlockNQueens\obj\Debug\BlockNQueens.csproj.CoreCompileInputs.cache
+C:\Users\ssheh\source\repos\BlockNQueens\BlockNQueens\obj\Debug\BlockNQueens.exe
+C:\Users\ssheh\source\repos\BlockNQueens\BlockNQueens\obj\Debug\BlockNQueens.pdb
