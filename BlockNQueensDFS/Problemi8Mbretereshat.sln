@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problemi8Mbretereshat", "Problemi8Mbretereshat\Problemi8Mbretereshat.csproj", "{BC4F8A19-C8EB-438D-A02F-AD3541E5B52E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC4F8A19-C8EB-438D-A02F-AD3541E5B52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4F8A19-C8EB-438D-A02F-AD3541E5B52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4F8A19-C8EB-438D-A02F-AD3541E5B52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4F8A19-C8EB-438D-A02F-AD3541E5B52E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36627B7B-E754-4DFE-9E3C-CF56AD2F9AE3}
+	EndGlobalSection
+EndGlobal
