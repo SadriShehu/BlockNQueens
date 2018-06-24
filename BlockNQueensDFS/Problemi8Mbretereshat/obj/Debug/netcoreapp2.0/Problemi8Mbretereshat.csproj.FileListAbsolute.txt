@@ -1,0 +1,11 @@
+D:\BLENDI\Materiale Mesimore\FIEK - VITI III\Semestri VI\Inteligjenca Artificiale\Problemi8Mbretereshat\Problemi8Mbretereshat\bin\Debug\netcoreapp2.0\Problemi8Mbretereshat.deps.json
+D:\BLENDI\Materiale Mesimore\FIEK - VITI III\Semestri VI\Inteligjenca Artificiale\Problemi8Mbretereshat\Problemi8Mbretereshat\bin\Debug\netcoreapp2.0\Problemi8Mbretereshat.runtimeconfig.json
+D:\BLENDI\Materiale Mesimore\FIEK - VITI III\Semestri VI\Inteligjenca Artificiale\Problemi8Mbretereshat\Problemi8Mbretereshat\bin\Debug\netcoreapp2.0\Problemi8Mbretereshat.runtimeconfig.dev.json
+D:\BLENDI\Materiale Mesimore\FIEK - VITI III\Semestri VI\Inteligjenca Artificiale\Problemi8Mbretereshat\Problemi8Mbretereshat\bin\Debug\netcoreapp2.0\Problemi8Mbretereshat.dll
+D:\BLENDI\Materiale Mesimore\FIEK - VITI III\Semestri VI\Inteligjenca Artificiale\Problemi8Mbretereshat\Problemi8Mbretereshat\bin\Debug\netcoreapp2.0\Problemi8Mbretereshat.pdb
+D:\BLENDI\Materiale Mesimore\FIEK - VITI III\Semestri VI\Inteligjenca Artificiale\Problemi8Mbretereshat\Problemi8Mbretereshat\obj\Debug\netcoreapp2.0\Problemi8Mbretereshat.csprojResolveAssemblyReference.cache
+D:\BLENDI\Materiale Mesimore\FIEK - VITI III\Semestri VI\Inteligjenca Artificiale\Problemi8Mbretereshat\Problemi8Mbretereshat\obj\Debug\netcoreapp2.0\Problemi8Mbretereshat.csproj.CoreCompileInputs.cache
+D:\BLENDI\Materiale Mesimore\FIEK - VITI III\Semestri VI\Inteligjenca Artificiale\Problemi8Mbretereshat\Problemi8Mbretereshat\obj\Debug\netcoreapp2.0\Problemi8Mbretereshat.AssemblyInfoInputs.cache
+D:\BLENDI\Materiale Mesimore\FIEK - VITI III\Semestri VI\Inteligjenca Artificiale\Problemi8Mbretereshat\Problemi8Mbretereshat\obj\Debug\netcoreapp2.0\Problemi8Mbretereshat.AssemblyInfo.cs
+D:\BLENDI\Materiale Mesimore\FIEK - VITI III\Semestri VI\Inteligjenca Artificiale\Problemi8Mbretereshat\Problemi8Mbretereshat\obj\Debug\netcoreapp2.0\Problemi8Mbretereshat.dll
+D:\BLENDI\Materiale Mesimore\FIEK - VITI III\Semestri VI\Inteligjenca Artificiale\Problemi8Mbretereshat\Problemi8Mbretereshat\obj\Debug\netcoreapp2.0\Problemi8Mbretereshat.pdb
