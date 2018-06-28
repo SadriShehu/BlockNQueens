@@ -9,3 +9,14 @@ D:\BLENDI\Materiale Mesimore\FIEK - VITI III\Semestri VI\Inteligjenca Artificial
 D:\BLENDI\Materiale Mesimore\FIEK - VITI III\Semestri VI\Inteligjenca Artificiale\Problemi8Mbretereshat\Problemi8Mbretereshat\obj\Debug\netcoreapp2.0\Problemi8Mbretereshat.AssemblyInfo.cs
 D:\BLENDI\Materiale Mesimore\FIEK - VITI III\Semestri VI\Inteligjenca Artificiale\Problemi8Mbretereshat\Problemi8Mbretereshat\obj\Debug\netcoreapp2.0\Problemi8Mbretereshat.dll
 D:\BLENDI\Materiale Mesimore\FIEK - VITI III\Semestri VI\Inteligjenca Artificiale\Problemi8Mbretereshat\Problemi8Mbretereshat\obj\Debug\netcoreapp2.0\Problemi8Mbretereshat.pdb
+C:\Users\ssheh\Documents\GitHub\BlockNQueens\BlockNQueensDFS\Problemi8Mbretereshat\bin\Debug\netcoreapp2.0\Problemi8Mbretereshat.deps.json
+C:\Users\ssheh\Documents\GitHub\BlockNQueens\BlockNQueensDFS\Problemi8Mbretereshat\bin\Debug\netcoreapp2.0\Problemi8Mbretereshat.runtimeconfig.json
+C:\Users\ssheh\Documents\GitHub\BlockNQueens\BlockNQueensDFS\Problemi8Mbretereshat\bin\Debug\netcoreapp2.0\Problemi8Mbretereshat.runtimeconfig.dev.json
+C:\Users\ssheh\Documents\GitHub\BlockNQueens\BlockNQueensDFS\Problemi8Mbretereshat\bin\Debug\netcoreapp2.0\Problemi8Mbretereshat.dll
+C:\Users\ssheh\Documents\GitHub\BlockNQueens\BlockNQueensDFS\Problemi8Mbretereshat\bin\Debug\netcoreapp2.0\Problemi8Mbretereshat.pdb
+C:\Users\ssheh\Documents\GitHub\BlockNQueens\BlockNQueensDFS\Problemi8Mbretereshat\obj\Debug\netcoreapp2.0\Problemi8Mbretereshat.csprojAssemblyReference.cache
+C:\Users\ssheh\Documents\GitHub\BlockNQueens\BlockNQueensDFS\Problemi8Mbretereshat\obj\Debug\netcoreapp2.0\Problemi8Mbretereshat.csproj.CoreCompileInputs.cache
+C:\Users\ssheh\Documents\GitHub\BlockNQueens\BlockNQueensDFS\Problemi8Mbretereshat\obj\Debug\netcoreapp2.0\Problemi8Mbretereshat.AssemblyInfoInputs.cache
+C:\Users\ssheh\Documents\GitHub\BlockNQueens\BlockNQueensDFS\Problemi8Mbretereshat\obj\Debug\netcoreapp2.0\Problemi8Mbretereshat.AssemblyInfo.cs
+C:\Users\ssheh\Documents\GitHub\BlockNQueens\BlockNQueensDFS\Problemi8Mbretereshat\obj\Debug\netcoreapp2.0\Problemi8Mbretereshat.dll
+C:\Users\ssheh\Documents\GitHub\BlockNQueens\BlockNQueensDFS\Problemi8Mbretereshat\obj\Debug\netcoreapp2.0\Problemi8Mbretereshat.pdb

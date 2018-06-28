@@ -69,7 +69,6 @@ namespace Problemi8Mbretereshat
                         {
                             return true;
                         }
-                        Tabela[r, k] = 0;
                     }
                     
                  
